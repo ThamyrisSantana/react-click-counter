@@ -1,0 +1,36 @@
+h1 {
+  font-size: 4rem;
+  color: #f32645;
+  margin-bottom: 4rem;
+}
+
+.counter-box {
+  width: 50vw;
+  height: 60vh;
+  background-color: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 5px 5px 24px #e2d9d5;
+  padding: 0;
+}
+
+button {
+  width: 15rem;
+  height: 4rem;
+  border: none;
+  border-radius: 20px;
+  background-color: #f32645;
+  margin-top: 3rem;
+
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #fff;
+}
+
+p {
+  font-size: 3.5rem;
+  font-weight: 600;
+  color: #757575;
+}
