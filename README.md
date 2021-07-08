@@ -1,3 +1,3 @@
 # Click Counter
 
-![]
+![Preview](https://raw.githubusercontent.com/ThamyrisSantana/react-click-counter/master/src/assets/preview.png)
