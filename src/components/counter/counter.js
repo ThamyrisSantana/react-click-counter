@@ -9,7 +9,7 @@ const Counter = () => {
       <div className="counter-box">
         <h1>Click Counter</h1>
         <p>{count}</p>
-        <button onClick={() => setCount(count + 1)}>Clickk</button>
+        <button onClick={() => setCount(count + 1)}>Click</button>
       </div>
     </div>
   );
